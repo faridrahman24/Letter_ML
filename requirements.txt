@@ -3,8 +3,4 @@ matplotlib
 seaborn
 pandas
 sklearn
-<<<<<<< HEAD
 openpyxl
-=======
-openpyxl
->>>>>>> 06d78fff65c0345b559b7ceef49b3ff8e0afe71b
